@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\EkinePaint\EkinePaint\bin\Release\EkinePaint.exe.config
+C:\Users\user\source\repos\EkinePaint\EkinePaint\bin\Release\EkinePaint.exe
+C:\Users\user\source\repos\EkinePaint\EkinePaint\bin\Release\EkinePaint.pdb
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.Form1.resources
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.Properties.Resources.resources
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.exe
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.pdb
+C:\Users\user\source\repos\EkinePaint\EkinePaint\obj\Release\EkinePaint.Rename.resources
